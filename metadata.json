@@ -1,0 +1,5 @@
+{
+  "name": "ClimaLens: Global Climate Intelligence",
+  "description": "A high-precision global climate analysis platform featuring real-time heatmaps, AI-driven risk assessment, and predictive climate modeling.",
+  "requestFramePermissions": ["geolocation"]
+}
