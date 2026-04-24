@@ -160,4 +160,6 @@ Or submit a climate observation using the report button — bottom right, always
 
 ## Author
 
-**Your Name** — [GitHub](https://github.com/your-username)
+Khush Patel — CSE undergrad building things that are harder than they look. GitHub
+
+**Khush Patel** — [GitHub](https://github.com/khushpatel3016)
